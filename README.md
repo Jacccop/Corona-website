@@ -1,2 +1,2 @@
 # Corona-website
-toto je Obsa readMe súboru
+toto je Obsah readMe súboru
